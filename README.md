@@ -28,4 +28,4 @@ Dökümantasyon içerisinde aşağıdaki başlıklar altında bilgiler bulabilir
 
 ## Yararlı Linkler
 
-* [Docker Sunumu](https://goo.gl/FAKYxb)-Docker hakkında genel bir sunum
+* [DockerCE Sunumu](https://goo.gl/FAKYxb)-Docker hakkında genel bilgiler içeren bir sunum
