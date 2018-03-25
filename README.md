@@ -1,7 +1,5 @@
 # docker-giris
 
-#### <i class="icon-file"></i> Create a document
+#### <i class="icon-pencil"></i> Rename a document
 
-The document panel is accessible using the <i clasmşs="icon-folder-open"></i> button in the navigation bar. You can create a new document by clicking <i class="icon-file"></i> **New document** in the document panel.
-
-
+You can rename the current document by clicking the document title in the navigation bar.
