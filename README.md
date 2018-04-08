@@ -30,3 +30,5 @@ Dökümantasyon içerisinde aşağıdaki başlıklar altında bilgiler bulabilir
 
 * [DockerCE Sunumu](https://goo.gl/FAKYxb)-Docker hakkında genel bilgiler içeren bir sunum
 * [Katacoda](https://www.katacoda.com/courses/docker)-Docker için birçok senaryoyu web üzerinden test edebileceğiniz öğretici bir lab
+* [Docker_Gökhan Şengün](https://www.gokhansengun.com/docker-nedir-nasil-calisir-nerede-kullanilir/)-Docker hakkında detaylı Türkçe kaynak yazı dizisi
+* [Deploy Containers](https://www.deploycontainers.com/)-Daha çok Windows containerlarda kullanılabilecek örnek kullanım durumlarını açıklayan bir website
